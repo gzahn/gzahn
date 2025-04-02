@@ -1,4 +1,3 @@
-# Hi there 👋
 
 I'm Geoffrey Zahn, Assistant Professor of Genomic Data Science at [William & Mary](https://www.wm.edu/as/appliedscience/).
 
@@ -21,4 +20,4 @@ Our lab is engaged in various projects that delve into the roles of microbes in 
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
-![Lab banner - mangroves, fungi, DNA](https://gzahn.github.io/assets/images/lab-banner.jpg)
+![https://gzahn.github.io/assets/images/lab-banner.jpg]
