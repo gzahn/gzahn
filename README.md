@@ -20,4 +20,5 @@ Our lab is engaged in various projects that delve into the roles of microbes in 
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
-![https://gzahn.github.io/assets/images/lab-banner.jpg]
+<img src="https://gzahn.github.io/assets/images/lab-banner.jpg" alt="Lab banner"/>
+![]
