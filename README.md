@@ -9,8 +9,3 @@ I lead the [TIDAL Lab](https://gzahn.github.io) (Translational Insights into mic
 - **Microbial Ecology**: Understanding microbial dispersal and how they interact within ecosystems.
 - **Symbiosis**: Exploring mutually beneficial relationships between hosts and their microbiomes.
 - **Conservation**: Applying microbial insights to conserve and restore vital ecosystems.
-
-## Connect with Me
-
-- **Website**: [gzahn.github.io](https://gzahn.github.io)
-- **Bluesky**: [geoffzahn.bsky.social](https://bsky.app/profile/geoffzahn.bsky.social)
