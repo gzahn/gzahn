@@ -11,4 +11,4 @@ I lead the [TIDAL Lab](https://gzahn.github.io) (Translational Insights into mic
 - **Conservation**: Applying microbial insights to conserve and restore vital ecosystems.
 - **Global Change**: Deciphering the roles of microbes in global biogeochemical cycles.
 
-<img src="https://gzahn.github.io/assets/images/wordcloud.png" alt="Google Scholar word cloud"/>
+<img src="https://gzahn.github.io/media/wordcloud_research.png" alt="Google Scholar word cloud"/>
